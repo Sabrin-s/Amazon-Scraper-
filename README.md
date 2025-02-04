@@ -1,4 +1,4 @@
-# Amazon-Scraper- Extract essential product information (title, price, ratings, and reviews).
+# Amazon-Scraper Extract essential product information (title, price, ratings, and reviews).
 Support dynamic content scraping for JavaScript-heavy pages.
 Enable efficient data storage in formats like CSV, Excel, or JSON.
 Implement proxy management to prevent IP blocking.
