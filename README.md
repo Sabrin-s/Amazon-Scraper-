@@ -1,4 +1,8 @@
-# Amazon-Scraper-
+# Amazon-Scraper- Extract essential product information (title, price, ratings, and reviews).
+Support dynamic content scraping for JavaScript-heavy pages.
+Enable efficient data storage in formats like CSV, Excel, or JSON.
+Implement proxy management to prevent IP blocking.
+
 
 **Project Overview**
 The Amazon Scraper project aims to automate the extraction of product data from Amazon for purposes like price comparison, market analysis, and trend monitoring. By leveraging web scraping techniques and automation tools, this project provides a streamlined way to gather useful insights from e-commerce platforms.
