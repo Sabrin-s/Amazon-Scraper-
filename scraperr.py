@@ -26,7 +26,7 @@ class AmazonScraper:
 
         self.driver = webdriver.Chrome(
             service=Service(
-                r"C:\\Users\\SabrinS\\.cache\\selenium\\chromedriver\\win64\\131.0.6778.264\\chromedriver.exe"),
+                r"C:\chromedriver\chromedriver.exe"),
             options=options,
         )
         self.wait = WebDriverWait(self.driver, 10)
